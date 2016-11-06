@@ -27,67 +27,67 @@
     <AppXManifest Include="C:\Users\Petra\Documents\Visual Studio 2015\Projects\Backgroundx86\Release\OpenCVExample\ilc\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-11-06T17:19:01.805</Modified>
+      <Modified>2016-11-06T18:32:36.974</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Petra\Documents\Visual Studio 2015\Projects\Backgroundx86\Release\OpenCVExample\ilc\Assets\grpPC1.jpg">
       <PackagePath>Assets\grpPC1.jpg</PackagePath>
-      <Modified>2016-10-31T22:47:53.332</Modified>
+      <Modified>2016-11-06T18:29:12.228</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Petra\Documents\Visual Studio 2015\Projects\Backgroundx86\Release\OpenCVExample\ilc\Assets\haarcascade_frontalface_alt.xml">
       <PackagePath>Assets\haarcascade_frontalface_alt.xml</PackagePath>
-      <Modified>2016-10-31T22:47:53.352</Modified>
+      <Modified>2016-11-06T18:29:12.234</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Petra\Documents\Visual Studio 2015\Projects\Backgroundx86\Release\OpenCVExample\ilc\Assets\haarcascade_fullbody.xml">
       <PackagePath>Assets\haarcascade_fullbody.xml</PackagePath>
-      <Modified>2016-10-31T22:47:53.371</Modified>
+      <Modified>2016-11-06T18:29:12.241</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Petra\Documents\Visual Studio 2015\Projects\Backgroundx86\Release\OpenCVExample\ilc\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2016-10-31T22:47:53.248</Modified>
+      <Modified>2016-11-06T18:29:12.217</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Petra\Documents\Visual Studio 2015\Projects\Backgroundx86\Release\OpenCVExample\ilc\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-10-31T22:47:53.260</Modified>
+      <Modified>2016-11-06T18:29:12.221</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Petra\Documents\Visual Studio 2015\Projects\Backgroundx86\Release\OpenCVExample\ilc\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-10-31T22:47:53.272</Modified>
+      <Modified>2016-11-06T18:29:12.223</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Petra\Documents\Visual Studio 2015\Projects\Backgroundx86\Release\OpenCVExample\ilc\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-10-31T22:47:53.284</Modified>
+      <Modified>2016-11-06T18:29:12.224</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Petra\Documents\Visual Studio 2015\Projects\Backgroundx86\Release\OpenCVExample\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-10-31T22:47:53.296</Modified>
+      <Modified>2016-11-06T18:29:12.225</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Petra\Documents\Visual Studio 2015\Projects\Backgroundx86\Release\OpenCVExample\ilc\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-10-31T22:47:53.307</Modified>
+      <Modified>2016-11-06T18:29:12.226</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Petra\Documents\Visual Studio 2015\Projects\Backgroundx86\Release\OpenCVExample\ilc\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-10-31T22:47:53.319</Modified>
+      <Modified>2016-11-06T18:29:12.227</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Petra\Documents\Visual Studio 2015\Projects\Backgroundx86\Release\OpenCVExample\ilc\OpenCVExample.exe">
       <PackagePath>OpenCVExample.exe</PackagePath>
-      <Modified>2016-11-06T17:23:50.773</Modified>
+      <Modified>2016-11-06T18:34:14.590</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Petra\Documents\Visual Studio 2015\Projects\Backgroundx86\Release\OpenCVExample\ilc\OpenCVExample.pdb">
       <PackagePath>OpenCVExample.pdb</PackagePath>
-      <Modified>2016-11-06T17:23:50.953</Modified>
+      <Modified>2016-11-06T18:34:16.160</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Petra\Documents\Visual Studio 2015\Projects\Backgroundx86\Release\OpenCVExample\ilc\OpenCVExample.winmd">
       <PackagePath>OpenCVExample.winmd</PackagePath>
-      <Modified>2016-11-06T17:18:56.904</Modified>
+      <Modified>2016-11-06T18:32:30.284</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Petra\Documents\Visual Studio 2015\Projects\Backgroundx86\Release\OpenCVExample\ilc\opencv_core300.dll">
       <PackagePath>opencv_core300.dll</PackagePath>
@@ -112,7 +112,7 @@
     <AppxPackagedFile Include="C:\Users\Petra\Documents\Visual Studio 2015\Projects\Backgroundx86\Release\OpenCVExample\ilc\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-11-06T17:43:23.699</Modified>
+      <Modified>2016-11-06T18:34:16.472</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
