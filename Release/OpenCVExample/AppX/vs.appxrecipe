@@ -27,7 +27,7 @@
     <AppXManifest Include="C:\Users\Petra\Documents\Visual Studio 2015\Projects\Backgroundx86\Release\OpenCVExample\ilc\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-11-06T18:32:36.974</Modified>
+      <Modified>2016-11-06T18:45:07.202</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -79,15 +79,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Petra\Documents\Visual Studio 2015\Projects\Backgroundx86\Release\OpenCVExample\ilc\OpenCVExample.exe">
       <PackagePath>OpenCVExample.exe</PackagePath>
-      <Modified>2016-11-06T18:34:14.590</Modified>
+      <Modified>2016-11-06T19:02:31.312</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Petra\Documents\Visual Studio 2015\Projects\Backgroundx86\Release\OpenCVExample\ilc\OpenCVExample.pdb">
       <PackagePath>OpenCVExample.pdb</PackagePath>
-      <Modified>2016-11-06T18:34:16.160</Modified>
+      <Modified>2016-11-06T19:02:31.693</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Petra\Documents\Visual Studio 2015\Projects\Backgroundx86\Release\OpenCVExample\ilc\OpenCVExample.winmd">
       <PackagePath>OpenCVExample.winmd</PackagePath>
-      <Modified>2016-11-06T18:32:30.284</Modified>
+      <Modified>2016-11-06T18:45:01.505</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Petra\Documents\Visual Studio 2015\Projects\Backgroundx86\Release\OpenCVExample\ilc\opencv_core300.dll">
       <PackagePath>opencv_core300.dll</PackagePath>
@@ -112,7 +112,7 @@
     <AppxPackagedFile Include="C:\Users\Petra\Documents\Visual Studio 2015\Projects\Backgroundx86\Release\OpenCVExample\ilc\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-11-06T18:34:16.472</Modified>
+      <Modified>2016-11-06T19:00:37.823</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

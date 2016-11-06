@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  App.xaml.cpp
+  MainPage.xaml.cpp
+  XamlTypeInfo.Impl.g.cpp
+c:\users\petra\documents\visual studio 2015\projects\backgroundx86\opencvexample\mainpage.xaml.cpp(123): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const cv::String'
+c:\users\petra\documents\visual studio 2015\projects\backgroundx86\opencvexample\mainpage.xaml.cpp(128): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const cv::String'
+LINK : fatal error LNK1181: cannot open input file 'opencv_core300d.lib'

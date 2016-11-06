@@ -13,6 +13,7 @@
 #include <Robuffer.h>
 
 using namespace OpenCVExample;
+using namespace cv;
 
 using namespace Platform;
 using namespace Windows::Foundation;
@@ -40,7 +41,7 @@ MainPage::MainPage()
 	InitializeComponent();
 }
 
-void  OpenCVExample::MainPage::UpdateImage(const cv::Mat& image)
+void  OpenCVExample::MainPage::UpdateImage(const Mat& image)
 {
 	// Create the WriteableBitmap
 	WriteableBitmap^ bitmap = ref new WriteableBitmap(image.cols, image.rows);
@@ -56,13 +57,15 @@ void  OpenCVExample::MainPage::UpdateImage(const cv::Mat& image)
 
 	// Get pointer to pixel bytes
 	HRESULT get_bytes = pBufferByteAccess->Buffer(&dstPixels);
-	if (get_bytes == S_OK) {
+	if (get_bytes == S_OK) 
+	{
 		memcpy(dstPixels, image.data, image.step.buf[1] * image.cols*image.rows);
 
 		// Set the bitmap to the Image element
 		storedImage->Source = bitmap;
 	}
-	else {
+	else
+	{
 		printf("Error loading image into buffer\n");
 	}
 }
@@ -70,9 +73,13 @@ void  OpenCVExample::MainPage::UpdateImage(const cv::Mat& image)
 // replace the image pane with an image in the "assets" folder, grpPC1.jpg
 void OpenCVExample::MainPage::loadImageButton_Click(Platform::Object^ sender, Windows::UI::Xaml::RoutedEventArgs^ e)
 {
-	cv::Mat image = cv::imread("Assets/grpPC1.jpg");
-	_stored_image = cv::Mat(image.rows, image.cols, CV_8UC4);
-	cv::cvtColor(image, _stored_image, CV_BGR2BGRA);
+	Mat image = imread("Assets/grpPC1.jpg");
+	if (!image.data)
+	{
+		exit(-1);
+	}
+	_stored_image = Mat(image.rows, image.cols, CV_8UC4);
+	cvtColor(image, _stored_image, CV_BGR2BGRA);
 	UpdateImage(_stored_image);
 
 }
