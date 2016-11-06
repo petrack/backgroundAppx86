@@ -1,0 +1,1 @@
+C:\Users\Petra\Documents\Visual Studio 2015\Projects\Backgroundx86\OpenCVExample\OpenCVExample.vcxproj;x86

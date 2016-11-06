@@ -1,0 +1,15 @@
+opencv_core300.dll
+opencv_imgcodecs300.dll
+opencv_imgproc300.dll
+opencv_ml300.dll
+opencv_objdetect300.dll
+Assets\grpPC1.jpg
+Assets\haarcascade_frontalface_alt.xml
+Assets\haarcascade_fullbody.xml
+Assets\LockScreenLogo.scale-200.png
+Assets\SplashScreen.scale-200.png
+Assets\Square150x150Logo.scale-200.png
+Assets\Square44x44Logo.scale-200.png
+Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+Assets\StoreLogo.png
+Assets\Wide310x150Logo.scale-200.png
